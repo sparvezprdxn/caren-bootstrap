@@ -1,0 +1,21 @@
+header {
+	width: 100%;
+	border-top: 5px solid #000;
+	/*position: fixed;
+	z-index: 11;*/
+	background: url('../images/header-bg.png');
+}
+
+button + a.navbar-brand {
+	width: 235px;
+	height: 22px;
+	padding: 1px;
+	margin: 18px 0 0;
+	display: inline-block;
+	background: url('../images/logo.caren-pfleger.png') no-repeat;
+	text-indent: -99999px;
+}
+
+.container {width: 1008px}
+
+.container > .row {margin: 41px 0 0;}
